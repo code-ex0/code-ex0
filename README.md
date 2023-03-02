@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **assembly and blockchain technologies**
 
-- 📝 I regularly write articles on [my web site](https://code-ex.ddns.net)
+- 📝 I regularly write articles on [my web site](https://louis.gypaetus.fr)
 
 - 📫 How to reach me **louis.sasse@protonmail.com**
 
